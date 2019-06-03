@@ -1,0 +1,36 @@
+<?php
+	$conn = new mysqli('localhost', 'root', '', 'nacoss');
+
+	if ($conn->connect_error) {
+	    die("Connection failed: " . $conn->connect_error);
+	}
+	
+?>
+
+
+
+----------------------------------------------------------------------------------------------------
+
+<?php
+	$conn = new mysqli('localhost', 'kmtechco_ayomide', '##s8!8b!EHlQ', 'kmtechco_nacoss');
+
+	if ($conn->connect_error) {
+	    die("Connection failed: " . $conn->connect_error);
+	}
+	
+?>
+
+-----------------------------------------------------------------------------------------------------
+
+
+
+
+
+<?php
+	$conn = new mysqli('localhost', 'root', '', 'nacoss');
+
+	if ($conn->connect_error) {
+	    die("Connection failed: " . $conn->connect_error);
+	}
+	
+?>
